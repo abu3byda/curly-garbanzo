@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="PicoSpoofer/PicoSpoofer.vcxproj" Id="7a83838e-4ed6-4164-eb9c-a2edbc015c70">
+    <Deploy />
+  </Project>
+</Solution>
