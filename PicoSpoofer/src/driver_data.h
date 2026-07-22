@@ -1,0 +1,1 @@
+xxd -i driver.sys > driver_data.h
